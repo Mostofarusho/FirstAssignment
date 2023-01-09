@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.first_nav{
+    
+    display:inline-block;
+    text-align: right;
+    background-image:url(../images/banner/banner3.png);
+    background-repeat:no-repeat;
+    
+    width: 1600px;
+    height: 809px;
+    left: 1600px;
+}
+.first_nav_title{
+    margin-top: 400px;
+    margin-bottom: 20px;
+    margin-left: 1400px;
+    margin-right:200px
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+.first_nav_description{
+    text-align: right
+    color: #444343;
+    font-weight: 400;
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+        margin-left: 1400px;
+       
+  
+
+}
+.first_nav_button{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    width: 160px;
+    height: 64px;
+    background: #F15B22;
+    border-radius: 5px;
+    margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 1400px;
+    
+}
+/*Second Section Failure*/
+.my_failures{
+    display: flex;
+    
+}
+.my_failure_image{
+    margin-left: 200px;
+}
+.my_failure_description{
+    margin-top: 250px;
+    margin-left: 1000 px;
+    
+}
+div li{
+    list-style: none;
+}
+.failure_headline{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 20px;
+}
+.failure_description{
+    font-weight: 400;
+    font-size: 32px;
+    color: #444343;
+    margin-bottom: 20px;
+
+}
+.failure_list{
+    font-weight: 400;
+    font-size: 24px;
+    color: #444343;
+}
+/*My Plans*/
+.my_plans{
+font-weight: 700;
+font-size: 40px;
+text-align: center;
+color: #151414;
+}
+.my_plans_list{
+    display: flex;
+    justify-content: space-between;
+}
+.plan_name{
+    font-weight: 700;
+font-size: 30px
+color: #151414;
+}
+.plan_start{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+/*Positive Mindset*/
+.positive_mindset{
+    margin-top: 50px;
+    background-image: url(../images/watch.png),url(../images/gradient1.png);
+    background-repeat:no-repeat;
+    width: 2000px;
+    height: 809px;
+    left: 1600px;
+
+}
+.positive_mindset_title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #737272;
+    color: #FFFFFF;
+    text-align: left;
+    margin-top: 500px;
+    margin-left: 50px;
+    
+}
+.positive_mindset_button{
+text-align: left;
+margin-top: 20px;
+margin-left: 50px;
+border-radius: 5px;
+width: 160px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+}
+/*Future contact*/
+.main_future{
+    background: #151414;
+    display: flex;
+}
+.future_title{
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+margin-bottom: 20px;
+}
+.future_description{
+font-weight: 400;
+ font-size: 32px;
+ color: #FFFFFF;
+ margin-bottom: 20px;
+ margin-right: 20px;
+}
+.subscribe_button{
+margin-top: 80px;
+ font-weight: 600;
+font-size: 20px;
+background: #FFFFFF;
+border-radius: 8px;
+}
+.subscribe{
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.social_media_icon{
+    display:flex;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}

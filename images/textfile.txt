@@ -1,0 +1,36 @@
+ <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+<h1>All Thinks Are Possible If You believe</h1>
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some  form, by injected humour, or randomised words</p>
+<button>Contact US</button>
+ margin: 250px 400px;
+    padding: 20px 20px;
+    display:inline-block;
+    text-align: center;
+    vertical-align: middle;
+    background-image:url(../images/donation8.jpg);
+    background-repeat:no-repeat;
+    flex-direction: column;
+
+
+
+
+   <nav class="first_nav">
+            <h1 class="nav_bar_title">Lets Help Those Who Are More In Need</h1>
+            <p class="nav_bar_details">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, natus.</p>
+            <button class="nav_bar_donate_btn">Donate Now</button>
+           
+        </nav>
+.first_nav{
+    margin: 250px 400px;
+    padding: 20px 20px;
+    display:inline-block;
+    text-align: center;
+    vertical-align: middle;
+    background-image:url(../images/donation8.jpg);
+    background-repeat:no-repeat;
+    flex-direction: column;
+}
