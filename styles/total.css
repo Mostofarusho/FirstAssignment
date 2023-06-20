@@ -1,0 +1,175 @@
+*{
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+/*Banner*/
+.banner{
+    justify-content: center;
+   
+    background-image: url('/images/banner/banner3.png');
+    background-color: lightblue;   
+    height: 800px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+
+}
+
+.banner_main_title{
+   
+    margin-left: 800px;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+.banner_main_description{
+margin-left: 900px;
+font-weight: 400;
+ font-size: 40px;
+ color: #FFFFFF;
+
+}
+.banner_main_button{
+margin-left: 1400px;
+ color: #005FAC;
+font-weight: 600;
+font-size: 30px;
+text-align: center;
+background-color: #FFFFFF;
+width: 160px;
+height: 64px;
+border-style: dotted;
+}
+/*Person Details*/
+.person{
+   
+}
+.person_main{
+    display: flex;
+}
+.person_details_title{
+    font-weight: 700;
+font-size: 40px;
+}
+.person_details_description{
+font-weight: 400;
+font-size: 36px;
+}
+.person_details_quality{
+    font-weight: 400;
+   font-size: 26px;
+}
+.person_Image{
+    margin-left: 250px;
+}
+.person_details{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.person_details_description{
+    margin-right: 100px;
+}
+/*My Plans*/
+.plan_header{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+.allplans{
+    display: flex;
+
+}
+.plan_description{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+
+.separate_plans{
+    margin-left: 150px;
+}
+/*Positive Image*/
+.positive_image{
+    background-image: url('/images/watch.png'),url('/images/gradient1.png');
+    height: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+
+   
+
+}
+.postitive_image_title{
+    
+padding: 20px 20px;
+margin-left: 10px;
+font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+
+}
+.positive_image_btn{
+   
+margin-top: 30px;
+margin-left: 30px;
+color: #005FAC;
+font-weight: 600;
+padding: 10px 40px;
+font-size: 20px;
+text-align: center;
+border-style: dotted;
+}
+/*Conclusion*/
+.icon{
+    display: flex;
+    margin-left: 150px;
+    
+
+}
+.conclusion{
+    margin-top: 100px;
+    display: flex;
+    background-color: black;
+}
+.icon_social{
+   padding: 10px;
+   margin-left: 5px;
+}
+.future_title{
+    margin-left: 150px;
+font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+}
+.future_description{
+    margin-left: 150px;
+    text-align: center;
+    margin-right: 150px;
+    color: #FFFFFF;
+font-weight: 400;
+font-size: 16px;
+}
+.future_email,.future_phone{
+    margin-left: 150px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.subscribe_title{
+    font-weight: 700;
+    font-size: 45px;
+        color: #FFFFFF;
+    }
+.subscribe_button{
+    background-color: blue;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 600;
+    padding: 10px 50px;
+    margin-top: 10px;
+font-size: 20px;
+border-style: dotted;
+}
